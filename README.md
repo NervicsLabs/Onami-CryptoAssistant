@@ -1,1 +1,1 @@
-# Onami---CryptoAssistant
+# Onami-CryptoAssistant
